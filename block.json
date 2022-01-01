@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "pnwdesign/pnw-sticker-block",
+	"title": "PNW Sticker Block",
+	"icon": "star-filled",
+	"category": "widgets",
+	"attributes": {
+		"message": {
+			"type": "string",
+			"default": "nothing yet"
+		}
+	},
+	"editorScript": "file:./build/index.js",
+	"style": "file:./build/index.css"
+}
